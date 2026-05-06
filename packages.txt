@@ -17,5 +17,4 @@ libxext6
 libxcb1
 libpango-1.0-0
 libcairo2
-libglib2.0-0
 libexpat1
