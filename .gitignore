@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+diag_*.html
+diag_*.txt
+*.json
+.streamlit/secrets.toml
